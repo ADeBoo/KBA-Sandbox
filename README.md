@@ -22,6 +22,7 @@ Sandbox for the EDI team to learn GIT
 
 ##### Group Training
 `This is a code block
+
 This is the second line of the code block`
 
 
