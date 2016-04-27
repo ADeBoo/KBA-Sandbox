@@ -9,9 +9,14 @@ And down came the rain
 And I was soaking
 Yeah I was freezing
 But I was feeling
+<<<<<<< HEAD
 No kind of pain
 Pain is missing
 
+=======
+No kind of pains
+This is a additional line that dsg added
+>>>>>>> refs/remotes/GurnB/master
 Come a fireball
 I held it in my hand
 You see before you
