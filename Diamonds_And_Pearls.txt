@@ -1,4 +1,4 @@
-Title : "Diamonds And Pearls"
+Title : Diamonds And Pearls
 Artist : Prince 
 
 This will be the day
