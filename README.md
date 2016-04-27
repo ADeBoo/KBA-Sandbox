@@ -20,5 +20,8 @@ Sandbox for the EDI team to learn GIT
 - [x] Add Second branch DSG02 off of DSG01
 
 
+##### Group Training
+'This is a code block
+THis is the second line of the code block'
 
 
